@@ -14,8 +14,9 @@ Solution 4: Lostify will help you change the sound profile of the phone from sil
   - create your own changes and PR me.
   
 # Screenshots
-![](./screens/1.png =100x200)
-![](./screens/2.png =100x200)
+<img src="./screens/1.png "  width="200" height="400" />
+<img src="./screens/2.png "  width="200" height="400" />
+
 ## License
 ----
 Apache License 2.0
